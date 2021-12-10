@@ -6,6 +6,11 @@ This repo contains the Fall 2021 semester project for team The Coup Starts Now f
 * Jason Liu (jasonliu96) 
 * Kanak Kshirsagar (Kanak17)
 
+# Running this Project
+
+Our preliminary analysis can be found in `Analysis.ipynb`, and our final analysis can be found in `Final Analysis.ipynb`. You will need to use Jupyter Notebooks to open and run those files. We have provided a `requirements.txt` to make it simple to install all the necessary packages. To do so, just run:
+
+`pip install -r requirements.txt`
 
 # Dataset
 
